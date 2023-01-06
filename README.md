@@ -8,5 +8,7 @@
 ## The Robot
 
 ## Deployment
+1) Local
+2) Google Cloud Platform
 - FastAPI Server
-- Can be deployed in the cloud as Docker container
+- Docker (CUDA enabled)
